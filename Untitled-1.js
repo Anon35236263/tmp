@@ -1,4 +1,5 @@
-  const form = document.querySelector("#form"),
+// ESSA
+const form = document.querySelector("#form"),
   fileInputClick = document.querySelector("#file-input"),
   fileInput = document.querySelector("#file"),
   progressArea = document.querySelector(".progress-area"),
